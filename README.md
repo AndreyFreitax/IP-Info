@@ -12,7 +12,7 @@
 
 ## Como Baixar e Executar
 ```bash
-git clone https://github.com/AndreyFreittas/IP-Info
+git clone https://github.com/Andreyftg/IP-Info
 cd IP-Info
 python3 ip.py <ip>
 ```
